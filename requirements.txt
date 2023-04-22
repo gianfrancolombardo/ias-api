@@ -1,8 +1,8 @@
-fastapi==0.68.0
-uvicorn==0.15.0
+fastapi
+uvicorn
 
-diffusers==0.2.2
-transformers==4.12.2
-accelerate==0.6.1
-scipy==1.7.1
-safetensors==0.2.2
+diffusers
+transformers
+accelerate
+scipy
+safetensors
